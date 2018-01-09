@@ -1,0 +1,10 @@
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\bin\Debug\WFA_BauWissenProjectHastane.OOP.dll
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\bin\Debug\WFA_BauWissenProjectHastane.OOP.pdb
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.csprojResolveAssemblyReference.cache
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.csproj.CoreCompileInputs.cache
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.dll
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.pdb
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.Properties.Resources.resources
+C:\Users\mertt\Desktop\WFA_BauWissenProjectHastane\WFA_BauWissenProjectHastane.OOP\obj\Debug\WFA_BauWissenProjectHastane.OOP.csproj.GenerateResource.Cache
